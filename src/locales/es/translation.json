@@ -1,3 +1,9 @@
 {
-    "Welcome to React": "bienvenido a react uy react-i18next"
+  "test":"test español",
+  "header": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "menu": "Productos",
+    "contact": "Contactanos"
   }
+}
